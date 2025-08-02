@@ -33,6 +33,19 @@ Kullanıcı 1000 puanla başlar ve her tahminde 100 puan kaybeder. Amaç doğru 
 
 ---
 
+## 🖼️ Ekran Görüntüleri
+
+### 🏠 Başlangıç Ekranı
+![Örnek Resim 1](imagess/sayitahmin1.png)
+
+### 📊 Doğru Cevap
+![Doğru Cevap](imagess/sayitahmindogrucevap.png)
+
+### 📊 Yanlış Cevap
+![Yanlış Cevap](imagess/sayitahminyanliscevap.png)
+
+---
+
 ## 📁 Kurulum
 
 Projeyi kendi bilgisayarınızda çalıştırmak için:
